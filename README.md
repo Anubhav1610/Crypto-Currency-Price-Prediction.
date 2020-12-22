@@ -1,6 +1,8 @@
 # Crypto-Currency-Price-Prediction.
 Crypto Currency Price Prediction is done using LSTM model.
 
+In this model 80% of the data is used for training and the rset 20% is used for testing.
+
 LSTM model - Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems. 
              It is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, 
              LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
